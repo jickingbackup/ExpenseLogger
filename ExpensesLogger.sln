@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{E4D0A1A8-7886-4747-BB03-DAF30E972BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{A0703CAD-5137-40BC-A88F-32FEFA85C5A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 DataAccess", "4 DataAccess", "{8AD2786D-8420-4725-8FB2-8182C9FDB237}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Model", "3 Model", "{42F77376-9659-4EAA-9960-77F7630DDE36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Presentation", "1 Presentation", "{C68153EE-B6EF-4B35-88F9-C366523444DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseLoggerWinApp", "ExpenseLoggerWinApp\ExpenseLoggerWinApp.csproj", "{3365E728-1841-406B-8BDB-0C20327304C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Service", "2 Service", "{E3CC19E4-7F75-44EE-957F-0B4C2F82CC39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{D64C73EB-9465-468B-B417-6D119D1D17D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXExpenseLoggerApp", "DXExpenseLoggerApp\DXExpenseLoggerApp.csproj", "{FE030024-DDB1-42E7-AB7B-455DA0F99593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D0A1A8-7886-4747-BB03-DAF30E972BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D0A1A8-7886-4747-BB03-DAF30E972BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D0A1A8-7886-4747-BB03-DAF30E972BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D0A1A8-7886-4747-BB03-DAF30E972BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0703CAD-5137-40BC-A88F-32FEFA85C5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0703CAD-5137-40BC-A88F-32FEFA85C5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0703CAD-5137-40BC-A88F-32FEFA85C5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0703CAD-5137-40BC-A88F-32FEFA85C5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3365E728-1841-406B-8BDB-0C20327304C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3365E728-1841-406B-8BDB-0C20327304C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3365E728-1841-406B-8BDB-0C20327304C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3365E728-1841-406B-8BDB-0C20327304C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64C73EB-9465-468B-B417-6D119D1D17D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64C73EB-9465-468B-B417-6D119D1D17D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64C73EB-9465-468B-B417-6D119D1D17D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64C73EB-9465-468B-B417-6D119D1D17D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE030024-DDB1-42E7-AB7B-455DA0F99593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE030024-DDB1-42E7-AB7B-455DA0F99593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE030024-DDB1-42E7-AB7B-455DA0F99593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE030024-DDB1-42E7-AB7B-455DA0F99593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E4D0A1A8-7886-4747-BB03-DAF30E972BA7} = {8AD2786D-8420-4725-8FB2-8182C9FDB237}
+		{A0703CAD-5137-40BC-A88F-32FEFA85C5A2} = {42F77376-9659-4EAA-9960-77F7630DDE36}
+		{3365E728-1841-406B-8BDB-0C20327304C9} = {C68153EE-B6EF-4B35-88F9-C366523444DA}
+		{FE030024-DDB1-42E7-AB7B-455DA0F99593} = {C68153EE-B6EF-4B35-88F9-C366523444DA}
+		{D64C73EB-9465-468B-B417-6D119D1D17D8} = {E3CC19E4-7F75-44EE-957F-0B4C2F82CC39}
+	EndGlobalSection
+EndGlobal

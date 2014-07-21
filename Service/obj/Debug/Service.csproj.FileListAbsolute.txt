@@ -1,0 +1,14 @@
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\Service.dll
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\Service.pdb
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\DataAccess.dll
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\Models.dll
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\EntityFramework.dll
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\AutoMapper.dll
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\DataAccess.pdb
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\Models.pdb
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\EntityFramework.xml
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\AutoMapper.xml
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\obj\Debug\Service.dll
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\obj\Debug\Service.pdb
+C:\Users\pixel\documents\visual studio 2012\Projects\ExpensesLogger\Service\bin\Debug\AutoMapper.Net4.dll
